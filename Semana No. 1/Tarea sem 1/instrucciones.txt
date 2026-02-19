@@ -1,1 +1,2 @@
-Buen día a todos, por favor subir su documento con su nombre y apellido para poder revisarlo.
+Buen día a todos, por favor subir su documento con su nombre y apellido y nombre de tarea para poder revisarlo.
+Recuerden que tendran que registrarse en Github para hacer este proceso.
